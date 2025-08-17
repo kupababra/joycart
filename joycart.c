@@ -147,7 +147,7 @@ int main(int argc, char *argv[]) {
 
     printf(WHITE "Nazwa joysticka: %s\n" RESET, name);
     printf(WHITE "Proszę zacząć naciskać przyciski i kierunki.\n" RESET);
-    printf("joycart.c ver. 0.1 alpha, autor - jms@data.pl, bofh@retro-technology.pl - poprawki AI \n");	
+    printf("joycart.c ver. 0.1 alpha, autor - jms@data.pl, bofh@retro-technology.pl - poprawki Autor i AI \n");	
     
     for (int i = 0; i < 6; i++) {
         if (i % 2 == 0)
